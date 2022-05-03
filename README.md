@@ -38,3 +38,6 @@
   <a href="https://github.com/Itsme-soman"><img title="COPYRIGHTS" src="https://img.shields.io/badge/COPYRIGHT-Kichu%20-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Itsme-soman"><img title="Developer" src="https://img.shields.io/badge/USED LANGUAGES IN THIS REPO-JAVA%20  -red.svg?style=for-the-badge&logo=github" /></a>
+</p>

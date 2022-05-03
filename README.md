@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Itsme-soman"><img title="Developer" src="https://img.shields.io/badge/USED LANGUAGES IN THIS REPO-JAVASCRIPT%20,SCSS,CSS,HTML -red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Itsme-soman"><img title="Developer" src="https://img.shields.io/badge/USED LANGUAGES IN THIS REPO-JAVASCRIPT,SCSS,CSS,HTML -red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=THANK+YOU💖)](https://git.io/typing-svg)

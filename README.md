@@ -4,4 +4,37 @@
 
  </a>
 </p>
- [![WEB LINK](Itsme-soman.github.io)]
+
+# Click on the web link.
+
+**Click [WEB LINK](https://Itsme-soman.github.io)**
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=FOLLOW+ME+IN;INSTAGRAM+U+HAVE+ANY;DOUBT'S+ASK+TO+ME😺🖐)](https://git.io/typing-svg)
+
+ </a>
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/kichu_nrd">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=AUTHOR+OF+THIS;REPOSITORY+AND+WEB)](https://git.io/typing-svg)
+
+ </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Itsme-soman"><img title="Developer" src="https://img.shields.io/badge/Author-Kichu%20-red.svg?style=for-the-badge&logo=github" /></a>
+</p>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=COPYRIGHTS+KICHU)](https://git.io/typing-svg)
+
+ </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Itsme-soman"><img title="COPYRIGHTS" src="https://img.shields.io/badge/COPYRIGHT-Kichu%20-red.svg?style=for-the-badge&logo=github" /></a>
+</p>
+

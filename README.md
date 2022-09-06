@@ -7,7 +7,7 @@
 
 # Click on the web link.
 
-**Click [WEB LINK](https://TOXIC-KICHU.github.io)**
+**Click [WEB LINK](https://toxic-kichu-web.vercel.app/)**
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=FOLLOW+ME+IN;INSTAGRAM+U+HAVE+ANY;DOUBT'S+ASK+TO+ME😺🖐)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/kichu_nrd">
+  <a href="https://instagram.com/t.o.x.i.c_k.i.c.h.u">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a

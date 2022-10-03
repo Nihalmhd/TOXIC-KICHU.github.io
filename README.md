@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TOXIC-KICHU"><img title="Developer" src="https://img.shields.io/badge/Author-Kichu%20-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nihalmhd"><img title="Developer" src="https://img.shields.io/badge/Author-Kichu%20-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=COPYRIGHTS+KICHU)](https://git.io/typing-svg)
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TOXIC-KICHU"><img title="COPYRIGHTS" src="https://img.shields.io/badge/COPYRIGHT-Kichu%20-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nihalmhd"><img title="COPYRIGHTS" src="https://img.shields.io/badge/COPYRIGHT-Profexer%20-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=USED+LANGUAGE'S)](https://git.io/typing-svg)
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TOXIC-KICHU"><img title="Developer" src="https://img.shields.io/badge/USED LANGUAGES IN THIS REPO-JAVASCRIPT,SCSS,CSS,HTML -red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Nihalmhd"><img title="Developer" src="https://img.shields.io/badge/USED LANGUAGES IN THIS REPO-JAVASCRIPT,SCSS,CSS,HTML -red.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=THANK+YOU💖)](https://git.io/typing-svg)
